@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T12:35:05.423Z" agent="5.0 (Windows)" version="14.6.0" etag="2wbQIcmjyq8J8eAzpoe_" type="github"><diagram id="HW1_4ZrtldeKbovoz1Gh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-15T13:12:15.574Z" agent="5.0 (Windows)" etag="mix16oxaoEELCDpHMG2g" version="14.6.0" type="github">
+  <diagram id="HW1_4ZrtldeKbovoz1Gh" name="Page-1">
+    <mxGraphModel dx="770" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="379dkRuL0LoOobD47lfA-3" value="Assemblée National" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="309.5" as="sourcePoint" />
+            <mxPoint x="270" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-18" value="Senat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-19" value="&lt;div&gt;Analyse de la lois par les &lt;br&gt;&lt;/div&gt;&lt;div&gt;Députés&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-21" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="379dkRuL0LoOobD47lfA-18" target="379dkRuL0LoOobD47lfA-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="390" as="sourcePoint" />
+            <mxPoint x="380" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="379dkRuL0LoOobD47lfA-32" target="379dkRuL0LoOobD47lfA-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="targetPoint" />
+            <mxPoint x="430" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="440" y="420" />
+              <mxPoint x="440" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-24" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="379dkRuL0LoOobD47lfA-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="430" as="sourcePoint" />
+            <mxPoint x="540" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-26" value="&lt;div&gt;577&lt;/div&gt;&lt;div&gt;Votants&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-27" value="Proposition de lois du Président à l&#39;assemblée" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-29" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-31" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="379dkRuL0LoOobD47lfA-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="240" as="sourcePoint" />
+            <mxPoint x="590" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-32" value="Création d&#39;un Wallet par votant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="379dkRuL0LoOobD47lfA-33" target="379dkRuL0LoOobD47lfA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-33" value="attribution d&#39;une clé publique pour tous les votants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="379dkRuL0LoOobD47lfA-34" value="&lt;div&gt;Ouverture du vote&lt;/div&gt;&lt;div&gt;Oui/Non/Blanc&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
